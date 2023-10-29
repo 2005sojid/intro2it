@@ -1,0 +1,28 @@
+body{
+    margin: 3px;
+    padding: 15px;
+    font-family: Consolas;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: underline;
+}
+#sad{
+    width: 400px;
+}
+.center{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+.tags{
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+}
